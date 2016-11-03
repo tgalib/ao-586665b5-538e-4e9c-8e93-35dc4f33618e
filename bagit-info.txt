@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Thailand Charge dAffaires
+External-Identifier: 586665b5-538e-4e9c-8e93-35dc4f33618e
+
